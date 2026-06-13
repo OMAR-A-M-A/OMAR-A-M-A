@@ -1,22 +1,35 @@
-# Hi there, I'm Omar Ayoub 👋
+<h1 align="center">Hi 👋, I'm Omar Ayoub</h1>
+<h3 align="center">A passionate Front-End Developer & CS Student from Egypt</h3>
 
-### Front-End Developer | CS Student @ Benha University | MEAN Stack Trainee
+<p align="center">
+  <a href="https://linkedin.com/in/omar-a-ayoub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-a-ayoub" height="30" width="40" /></a>
+</p>
 
-I am a Computer Science student passionate about building responsive, user-centric web applications. Currently, I am expanding my expertise in the MEAN Stack through an intensive 210-hour training program at NTI, bridging the gap between front-end interfaces and robust back-end systems.
+---
 
-## 🚀 About Me
-- 🎓 **Education:** 3rd-year CS Student at Benha University (Expected 2027).
-- 💻 **Current Focus:** Deepening my knowledge in React.js, Angular, and full-stack integration (Node.js/MongoDB).
-- 🛠️ **Latest Projects:** Actively developing full-stack applications like **SmartLab** (Medical Lab Management) and **Sheryan** (Emergency Blood Donation System).
-- 🤝 **Leadership:** Head of Front-End Committee & Technical Instructor at IEEE BUB SB, where I successfully mentored a team of 28 TAs and guided 250+ students in a Front-End Bootcamp.
-- 📫 **How to reach me:** omarayoub767@gmail.com
+### 👨‍💻 About Me:
+- 🔭 I’m currently working on **SmartLab** and **Sheryan** (Full-Stack Applications).
+- 🌱 I’m currently learning advanced **MEAN Stack** development at NTI.
+- 👯 I’m looking to collaborate on **React and Front-End Open Source Projects**.
+- 💬 Ask me about **HTML, CSS, JS, React, and Technical Mentorship**.
+- ⚡ Fun fact: I enjoy designing logos and paper animations!
 
-## 🛠️ Tech Stack
-**Front-End:** HTML5, CSS3, JavaScript (ES6+), React.js, Angular, Bootstrap, Tailwind CSS  
-**Back-End & Databases:** Node.js, Express.js, MongoDB  
-**Tools:** Git, GitHub, Figma, Vercel
+### 💻 Languages and Tools:
+<p align="left"> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
+</p>
 
-## 📌 Featured Projects
-* **Rowad E-Commerce:** A scalable platform with Redux state management.
-* **Mother of the World:** An interactive Egypt Tourism Guide.
-* **Movie & TV Shows Explorer:** Dynamic UI with asynchronous data fetching from TMDB API.
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OMAR-A-M-A&show_icons=true&theme=radical" alt="Omar's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMAR-A-M-A&layout=compact&theme=radical" alt="Top Languages" />
+</p>
